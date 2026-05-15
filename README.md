@@ -67,11 +67,11 @@ Currently exploring **zero-knowledge proofs** and **agentic security**.
 | Cantina | Solidity | [HyperLend](https://cantina.xyz/competitions/cd180bb3-5d7d-46ed-8b99-d905e54a9d0b/leaderboard) | Lending Protocol | **1 H, 2 L** | [📄](https://github.com/orangesantra/Audits/blob/main/Reports/HyperLend.md) |
 | Cantina | Solidity | [Coinbase SpendPermissions]() | Token Allowance | **1 L** | [📄](https://github.com/orangesantra/Audits/blob/main/Reports/Coinbase.md) |
 | Cantina | Solidity | [Ammalgam](https://cantina.xyz/competitions/02c29467-cb27-4beb-b2ef-500ad95e1a51) | Uniswap V2 fork DLEX | **1 solo H** → Informational | [📄](https://github.com/orangesantra/Audits/blob/main/Reports/Ammalgam.md) |
-| Sherlock | Solidity | [Flying Tulip](https://audits.sherlock.xyz/contests/1223) | Options and Investment | No H/M | - |
-| Sherlock | Solidity | [Aave V4](https://audits.sherlock.xyz/contests/1209?filter=judging) | Lending | No H/M | - |
-| Sherlock | Solidity | [OpenCover Insured Vaults](https://audits.sherlock.xyz/contests/1222) | On-chain DeFi insurance | No H/M | - |
-| Sherlock | Solidity | [DeBank](https://audits.sherlock.xyz/contests/852) | DEX and router aggregator | No H/M | - |
-| Sherlock | Solidity | [Pinlink](https://audits.sherlock.xyz/contests/852) | DePIN | No H/M | - |
+| Sherlock | Solidity | [Flying Tulip](https://audits.sherlock.xyz/contests/1223) | Options and Investment | No H/M severity contest| - |
+| Sherlock | Solidity | [Aave V4](https://audits.sherlock.xyz/contests/1209?filter=judging) | Lending | No H/M severity contest | - |
+| Sherlock | Solidity | [OpenCover Insured Vaults](https://audits.sherlock.xyz/contests/1222) | On-chain DeFi insurance | No H/M severity contest | - |
+| Sherlock | Solidity | [DeBank](https://audits.sherlock.xyz/contests/852) | DEX and router aggregator | No H/M severity contest | - |
+| Sherlock | Solidity | [Pinlink](https://audits.sherlock.xyz/contests/852) | DePIN | No H/M severity contest | - |
 
 ---
 
