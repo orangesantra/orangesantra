@@ -81,7 +81,7 @@ A collection of my notable Web3 works.
 
 | Project | Occasion | Description |
 |:--------|:---------|:------------|
-| [RunBro](https://github.com/RunBroHackaton/SmartContracts) | Chainlink BlockMagic Hackathon | Decentralized fitness marketplace rewarding users with native tokens (RBT) based on daily step counts, powered by Chainlink Functions (Google Fit API) and Chainlink Automation |
+| [RunBro](https://github.com/RunBroHackaton/SmartContracts) | Chainlink BlockMagic and ETH Toronto | Decentralized fitness marketplace rewarding users with native tokens (RBT) based on daily step counts, powered by Chainlink Functions (Google Fit API) and Chainlink Automation |
 | [TLIS Hook](https://github.com/orangesantra/TLIS-hook) | ETH Global | Uniswap V4 hook implementing privacy-preserving batch auctions via time-locked, encrypted trading intents — prevents front-running and sandwich attacks through 5-minute batch settlement windows |
 | [0-Waste](https://github.com/orangesantra/0-waste) | VeryChain Hackathon | Blockchain-based food waste redistribution protocol on VeryChain connecting restaurants, NGOs, and couriers through a stake-to-earn mechanism with on-chain reputation and Impact NFT certificates |
 | [CertNAI](https://github.com/certnai/frontend-cl) | Chainlink Convergence Hackathon | AI-powered on-chain certification platform — Next.js frontend integrating Chainlink for verifiable credential issuance and validation |
