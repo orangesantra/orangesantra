@@ -18,6 +18,13 @@ Currently exploring **zero-knowledge proofs** and **agentic security**.
 
 ---
 
+## Contest Portfolio
+
+> Competed on **Sherlock** &nbsp;·&nbsp; **Code4rena** &nbsp;·&nbsp; **Cantina** &nbsp;·&nbsp; **CodeHawks**
+
+
+---
+
 ## Findings Summary
 
 <p align="left">
@@ -27,12 +34,6 @@ Currently exploring **zero-knowledge proofs** and **agentic security**.
 | **24** | **20** | **16** |
 
 </p>
-
----
-
-## Contest Portfolio
-
-> Competed on **Sherlock** &nbsp;·&nbsp; **Code4rena** &nbsp;·&nbsp; **Cantina** &nbsp;·&nbsp; **CodeHawks**
 
 ### Some Notable Highlights
 
