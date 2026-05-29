@@ -40,7 +40,7 @@ Currently exploring **zero-knowledge proofs** and **agentic security**.
 | Contest | Platform | Result |
 |:--------|:---------|:-------|
 | [Lambo Win](https://code4rena.com/audits/2024-12-lambowin) | Code4rena | Top 3 |
-| [Ammalgam](https://cantina.xyz/competitions/02c29467-cb27-4beb-b2ef-500ad95e1a51)* | Cantina | Top 5 |
+| [Ammalgam](https://cantina.xyz/competitions/02c29467-cb27-4beb-b2ef-500ad95e1a51)* | Cantina | ~~Top 5~~|
 | [HyperLend](https://cantina.xyz/competitions/cd180bb3-5d7d-46ed-8b99-d905e54a9d0b/leaderboard) | Cantina | Top 10 |
 
 *\* The Ammalgam finding was invalidated due to a broken test suite that prevented the PoC from executing correctly, so the result is not reflected on the leaderboard. The validity of this claim can be verified [here](https://cantina.xyz/code/02c29467-cb27-4beb-b2ef-500ad95e1a51/findings?s=-status%253Aspam%252Cwithdrawn%2520created_by%253AOrangeSantra&finding=463).*
