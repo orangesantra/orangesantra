@@ -41,6 +41,7 @@ Currently exploring **zero-knowledge proofs** and **agentic security**.
 |:--------|:---------|:-------|
 | [Lambo Win](https://code4rena.com/audits/2024-12-lambowin) | Code4rena | Top 3 |
 | [Ammalgam](https://cantina.xyz/competitions/02c29467-cb27-4beb-b2ef-500ad95e1a51)* | Cantina | ~~Top 5~~|
+| [SukuFi](https://code4rena.com/audits/2025-11-sukukfi) | Code4rena | Top 10 |
 | [HyperLend](https://cantina.xyz/competitions/cd180bb3-5d7d-46ed-8b99-d905e54a9d0b/leaderboard) | Cantina | Top 10 |
 
 *\* The Ammalgam finding was invalidated due to a broken test suite that prevented the PoC from executing correctly, so the result is not reflected on the leaderboard. The validity of this claim can be verified [here](https://cantina.xyz/code/02c29467-cb27-4beb-b2ef-500ad95e1a51/findings?s=-status%253Aspam%252Cwithdrawn%2520created_by%253AOrangeSantra&finding=463).*
@@ -50,6 +51,7 @@ Currently exploring **zero-knowledge proofs** and **agentic security**.
 
 | Platform | Language | Contest | Description | Findings | Report |
 |:---------|:---------|:--------|:------------|:---------|:------:|
+| Cantina | Solidity | [RevertStable-Swaps](https://cantina.xyz/competitions/e55ee7b9-6c99-42f8-8338-39f3dd134ef3) | Lending Infrastructure | **1 H** | - |
 | Sherlock | Move/Sui | [Current Finance](https://audits.sherlock.xyz/contests/1256?filter=questions) | Leveraged Yield and Margin Markets | **1 M** | - |
 | Code4rena | Solidity | [SukukFi](https://code4rena.com/audits/2025-11-sukukfi) | Profit sharing debt protocol | **1 M, 1 L** | - |
 | Cantina | Solidity | [Avon](https://cantina.xyz/competitions/708eecf5-a6a0-46c1-a949-277f7408decc/leaderboard) | Lending Infrastructure and OrderBook | **2 M** | - |
@@ -68,6 +70,7 @@ Currently exploring **zero-knowledge proofs** and **agentic security**.
 | Cantina | Solidity | [HyperLend](https://cantina.xyz/competitions/cd180bb3-5d7d-46ed-8b99-d905e54a9d0b/leaderboard) | Lending Protocol | **1 H, 2 L** | [📄](https://github.com/orangesantra/Audits/blob/main/Reports/HyperLend.md) |
 | Cantina | Solidity | [Coinbase SpendPermissions]() | Token Allowance | **1 L** | [📄](https://github.com/orangesantra/Audits/blob/main/Reports/Coinbase.md) |
 | Cantina | Solidity | [Ammalgam](https://cantina.xyz/competitions/02c29467-cb27-4beb-b2ef-500ad95e1a51) | Uniswap V2 fork DLEX | **1 solo H** → Informational | [📄](https://github.com/orangesantra/Audits/blob/main/Reports/Ammalgam.md) |
+| Sherlock | Solidity | [SuperFluid](https://audits.sherlock.xyz/contests/1263) | Options and Investment | No H/M severity contest| - |
 | Sherlock | Solidity | [Flying Tulip](https://audits.sherlock.xyz/contests/1223) | Options and Investment | No H/M severity contest| - |
 | Sherlock | Solidity | [Aave V4](https://audits.sherlock.xyz/contests/1209?filter=judging) | Lending | No H/M severity contest | - |
 | Sherlock | Solidity | [OpenCover Insured Vaults](https://audits.sherlock.xyz/contests/1222) | On-chain DeFi insurance | No H/M severity contest | - |
