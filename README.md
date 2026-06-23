@@ -31,7 +31,7 @@ Currently exploring **zero-knowledge proofs** and **agentic security**.
 
 | High | Medium | Low + Info |
 |:-------:|:---------:|:------:|
-| **24** | **20** | **16** |
+| **25** | **20** | **16** |
 
 </p>
 
