@@ -5,7 +5,7 @@
 
 Hi, I am a smart contract developer & security researcher with more than **2.5 years in Web3** with around **1.5 years focused on security research**, primarily auditing DeFi protocols across multiple ecosystems. I specialize in **Solidity** and **Rust**, having audited codebases ranging from DEXs, lending protocols, and stablecoin systems to RWA tokenization and cross-chain infrastructure, and successfully reported **45+ High/Medium** severity vulnerabilities.
 
-Currently exploring **zero-knowledge proofs** and **agentic security**.
+Currently learning **zero-knowledge proofs** and **agentic security**.
 
 ### Contacts
 
@@ -31,7 +31,7 @@ Currently exploring **zero-knowledge proofs** and **agentic security**.
 
 | High | Medium | Low + Info |
 |:-------:|:---------:|:------:|
-| **25** | **20** | **16** |
+| **25** | **21** | **20** |
 
 </p>
 
@@ -51,6 +51,7 @@ Currently exploring **zero-knowledge proofs** and **agentic security**.
 
 | Platform | Language | Contest | Description | Findings | Report |
 |:---------|:---------|:--------|:------------|:---------|:------:|
+| Codespect/SpecSiege | Solidity | [ERC6909-Bond-Platform]() | Bond Infrastructure and Account Abstraction | **1 M**, **4 L** | - |
 | Cantina | Solidity | [RevertStable-Swaps](https://cantina.xyz/competitions/e55ee7b9-6c99-42f8-8338-39f3dd134ef3) | Lending Infrastructure | **1 H** | - |
 | Sherlock | Move/Sui | [Current Finance](https://audits.sherlock.xyz/contests/1256?filter=questions) | Leveraged Yield and Margin Markets | **1 M** | - |
 | Code4rena | Solidity | [SukukFi](https://code4rena.com/audits/2025-11-sukukfi) | Profit sharing debt protocol | **1 M, 1 L** | - |
