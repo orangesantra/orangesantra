@@ -31,7 +31,7 @@ Currently learning **zero-knowledge proofs** and **agentic security**.
 
 | High | Medium | Low + Info |
 |:-------:|:---------:|:------:|
-| **25** | **21** | **20** |
+| **25** | **22** | **21** |
 
 </p>
 
@@ -51,6 +51,8 @@ Currently learning **zero-knowledge proofs** and **agentic security**.
 
 | Platform | Language | Contest | Description | Findings | Report |
 |:---------|:---------|:--------|:------------|:---------|:------:|
+| Sherlock | Solidity | Metric | CLOB | **1 M** | - |
+| Cantina | Solidity | Morpho-Midnight | Lending Infra | **1 L** | - |
 | Codespect/SpecSiege | Solidity | [ERC6909-Bond-Platform]() | Bond Infrastructure and Account Abstraction | **1 M**, **4 L** | - |
 | Cantina | Solidity | [RevertStable-Swaps](https://cantina.xyz/competitions/e55ee7b9-6c99-42f8-8338-39f3dd134ef3) | Lending Infrastructure | **1 H** | - |
 | Sherlock | Move/Sui | [Current Finance](https://audits.sherlock.xyz/contests/1256?filter=questions) | Leveraged Yield and Margin Markets | **1 M** | - |
@@ -71,6 +73,7 @@ Currently learning **zero-knowledge proofs** and **agentic security**.
 | Cantina | Solidity | [HyperLend](https://cantina.xyz/competitions/cd180bb3-5d7d-46ed-8b99-d905e54a9d0b/leaderboard) | Lending Protocol | **1 H, 2 L** | [📄](https://github.com/orangesantra/Audits/blob/main/Reports/HyperLend.md) |
 | Cantina | Solidity | [Coinbase SpendPermissions]() | Token Allowance | **1 L** | [📄](https://github.com/orangesantra/Audits/blob/main/Reports/Coinbase.md) |
 | Cantina | Solidity | [Ammalgam](https://cantina.xyz/competitions/02c29467-cb27-4beb-b2ef-500ad95e1a51) | Uniswap V2 fork DLEX | **1 solo H** → Informational | [📄]() |
+| Sherlock | Solidity | [Tare](https://audits.sherlock.xyz/contests/1263) | Staking and Lending Infra | No H/M severity contest| - |
 | Sherlock | Solidity | [SuperFluid](https://audits.sherlock.xyz/contests/1263) | Options and Investment | No H/M severity contest| - |
 | Sherlock | Solidity | [Flying Tulip](https://audits.sherlock.xyz/contests/1223) | Options and Investment | No H/M severity contest| - |
 | Sherlock | Solidity | [Aave V4](https://audits.sherlock.xyz/contests/1209?filter=judging) | Lending | No H/M severity contest | - |
