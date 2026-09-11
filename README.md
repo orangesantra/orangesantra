@@ -99,4 +99,14 @@ A collection of my notable Web3 works.
 
 ---
 
+## Experience
+
+- Smart Contract Dev $ Protocol researcher - [Masma]()
+- Business Developer - [Krayto]()
+
+## Acheivements
+
+- Finalist IBCOL 2023
+- Winner of National Technology and Entrepreneurship Summit 2021 
+
 
