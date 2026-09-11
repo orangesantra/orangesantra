@@ -51,8 +51,8 @@ Currently learning **zero-knowledge proofs** and **agentic security**.
 
 | Platform | Language | Contest | Description | Findings | Report |
 |:---------|:---------|:--------|:------------|:---------|:------:|
-| Sherlock | Solidity | Metric | CLOB | **1 M** | - |
-| Cantina | Solidity | Morpho-Midnight | Lending Infra | **1 L** | - |
+| Sherlock | Solidity | [Metric]() | CLOB | **1 M** | - |
+| Cantina | Solidity | [Morpho-Midnight]() | Lending Infra | **1 L** | - |
 | Codespect/SpecSiege | Solidity | [ERC6909-Bond-Platform]() | Bond Infrastructure and Account Abstraction | **1 M**, **4 L** | - |
 | Cantina | Solidity | [RevertStable-Swaps](https://cantina.xyz/competitions/e55ee7b9-6c99-42f8-8338-39f3dd134ef3) | Lending Infrastructure | **1 H** | - |
 | Sherlock | Move/Sui | [Current Finance](https://audits.sherlock.xyz/contests/1256?filter=questions) | Leveraged Yield and Margin Markets | **1 M** | - |
