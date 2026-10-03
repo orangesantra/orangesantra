@@ -101,7 +101,7 @@ A collection of my notable Web3 works.
 
 ## Experience
 
-- Smart Contract Dev $ Protocol researcher - [Masma]()
+- Smart Contract Dev & Protocol researcher - [Masma]()
 - Business Developer - [Krayto]()
 
 ## Acheivements
