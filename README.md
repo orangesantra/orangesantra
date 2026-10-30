@@ -3,7 +3,7 @@
 
 ## About Me
 
-Hi, I am a smart contract developer & security researcher with more than **2.5 years in Web3** with around **1.5 years focused on security research**, primarily auditing DeFi protocols across multiple ecosystems. I specialize in **Solidity** and **Rust**, having audited codebases ranging from DEXs, lending protocols, and stablecoin systems to RWA tokenization and cross-chain infrastructure, and successfully reported **50+ High/Medium** severity vulnerabilities.
+Hi, I am a smart contract developer & security researcher with more than **3 years in Web3** with around **1.5 years focused on security research**, primarily auditing DeFi protocols across multiple ecosystems. I specialize in **Solidity** and **Rust**, having audited codebases ranging from DEXs, lending protocols, and stablecoin systems to RWA tokenization and cross-chain infrastructure, and successfully reported **55+ High/Medium** severity vulnerabilities.
 
 Currently learning **zero-knowledge proofs** and **agentic security**.
 
@@ -31,7 +31,7 @@ Currently learning **zero-knowledge proofs** and **agentic security**.
 
 | High | Medium | Low + Info |
 |:-------:|:---------:|:------:|
-| **26** | **26** | **21** |
+| **30** | **26** | **21** |
 
 </p>
 
@@ -51,7 +51,7 @@ Currently learning **zero-knowledge proofs** and **agentic security**.
 
 | Platform | Language | Contest | Description | Findings | Report |
 |:---------|:---------|:--------|:------------|:---------|:------:|
-| HackenProof | Solidity | [Rain](https://dashboard.hackenproof.com/user/programs/rain-usdr-smart-contract-audit-contest-sept-2026) | Prediction Market | **1 H**, **4M** | - |
+| HackenProof | Solidity | [Rain](https://dashboard.hackenproof.com/user/programs/rain-usdr-smart-contract-audit-contest-sept-2026) | Prediction Market | **5 H**, **4 M** | - |
 | Sherlock | Solidity | [Metric]() | CLOB | **1 M** | - |
 | Cantina | Solidity | [Morpho-Midnight]() | Lending Infra | **1 L** | - |
 | Codespect/SpecSiege | Solidity | [ERC6909-Bond-Platform]() | Bond Infrastructure and Account Abstraction | **1 M**, **4 L** | - |
