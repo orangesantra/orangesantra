@@ -18,7 +18,7 @@ Currently learning **zero-knowledge proofs** and **agentic security**.
 
 ---
 
-## Contest Portfolio
+## Audit Portfolio
 
 > Competed on **Sherlock** &nbsp;·&nbsp; **Code4rena** &nbsp;·&nbsp; **Cantina** &nbsp;·&nbsp; **CodeHawks** &nbsp;·&nbsp; **HackenProof**
 
@@ -108,6 +108,10 @@ A collection of my notable Web3 works.
 ## Acheivements
 
 - Finalist IBCOL 2023
-- Winner of National Technology and Entrepreneurship Summit 2021 
+- Winner of National Technology and Entrepreneurship Summit 2021
+
+## Articles
+
+- Some top articles related to agentic harness security coming soon ...
 
 
