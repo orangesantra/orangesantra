@@ -18,6 +18,12 @@ Currently learning **zero-knowledge proofs** and **agentic security**.
 
 ---
 
+## Autonomous AI bughunter benchmarks
+
+Coming soon!
+
+---
+
 ## Audit Portfolio
 
 > Competed on **Sherlock** &nbsp;·&nbsp; **Code4rena** &nbsp;·&nbsp; **Cantina** &nbsp;·&nbsp; **CodeHawks** &nbsp;·&nbsp; **HackenProof**
